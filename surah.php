@@ -6,6 +6,7 @@ require __DIR__ . '/vendor/autoload.php';
 include BASE_PATH . "/header.php";
 ?>
 
+
 <body>
     <?php
     include_once "navigation.php";
